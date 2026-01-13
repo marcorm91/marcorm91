@@ -1,16 +1,20 @@
-## Hi there 👋
+## About me
 
-<!--
-**marcorm91/marcorm91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UI developer who enjoys building clean and accessible interfaces.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⏱️ Focus-mode Pomodoro
+Pomodoro application with activity tracking and statistics.  
+_Next.js · Tailwind · Prisma · Supabase_  
+[Live](https://focus-mode.app/)
+
+### 🌐 Personal Portfolio
+MDX-driven portfolio and blog with a focus on performance and accessibility.  
+_Next.js · Tailwind_  
+[Website](https://marcorm.vercel.app/es) · [GitHub](https://github.com/marcorm91/my-portfolio)
+
+### 🖥️ Desktop App
+Simple desktop app to track personal expenses with a clean, minimal UI.
+_React · Tauri · SQLite_  
+[GitHub](https://github.com/marcorm91/fintrack-app)
